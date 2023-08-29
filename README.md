@@ -1,3 +1,4 @@
+![desafio2](https://github.com/anicetoestevam/BOOTCAMP-DIO-SQL/assets/121691977/649c1d10-006d-448d-ae5d-e1993ede82c0)
 # BOOTCAMP-DIO-SQL
 Desafio 2 do Bootcamp Ciência de Dados (Professora Mascarenhas)
 
